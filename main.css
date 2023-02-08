@@ -106,6 +106,9 @@ button {
 }
 
 @media screen and (max-width: 640px) {
+    .space-bottom {
+        margin-bottom: 6px;
+    }
     h1 {
         display: grid;
     }
